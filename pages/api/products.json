@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Beautiful Cupcakes",
+    "price": "0.09",
+    "description": "Get this unique cupcake picture for only $0.09!",
+    "image_url": "https://gateway.pinata.cloud/ipfs/QmeoQCyxuVCwsyHgkPfV6S2vdVaNNtKscU1mrGoYoMnyFq",
+    "filename": "beautiful_cupcakes.jpg",
+    "hash": "QmeoQCyxuVCwsyHgkPfV6S2vdVaNNtKscU1mrGoYoMnyFq"
+  },
+  {
+    "id": 2,
+    "name": "T-Shirts",
+    "price": "10.00",
+    "image_url": "https://www.hellotux.com/productimages/ubuntu_tshirt_black_1.JPG",
+    "description": "Nice Embroidered T-Shirts",
+    "filename": "ubuntu_tshirt_black_1.zip",
+    "hash": "QmVvndZh1RZvGodAAsns6T9mem2c8Cy9SSgdFGarkqcebf"
+  }
+]
